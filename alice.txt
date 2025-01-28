@@ -1,2 +1,1 @@
-hiii,
-i am shiva
+hello every one this me prasad welcome to git command
